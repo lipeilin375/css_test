@@ -1,0 +1,9 @@
+p {
+    font-size: 12px;        /*字体大小为12px*/
+    color: red;           /*字体颜色为红色*/
+}
+
+span {
+    font-size: 22px;
+    color: skyblue;
+}
