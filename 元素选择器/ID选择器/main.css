@@ -1,0 +1,9 @@
+#box {
+    background: url(./20150827211532-reading-book-in-office-books-read.jpg);
+    height: 1080px;
+    width: 1920px;
+    padding: 3px;
+    border-radius: 16px;
+    color: white;
+    font-size: 35px;
+}
